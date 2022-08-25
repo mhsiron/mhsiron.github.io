@@ -130,6 +130,10 @@ body {
   }
 }
 
+.main  container {
+  background: $mainContentColor;
+}
+
 .header,
 .feature,
 .footer {
