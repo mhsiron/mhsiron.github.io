@@ -23,9 +23,9 @@ aside: true
 
 ### Contribution to open source softwares (in order of contributions):
 
-- Atomate ([Github fork](https://github.com/mhsiron/atomate) | [Main project website](https://atomate.org/contributors.html))
-- Pymatgen ([Github fork](https://github.com/mhsiron/pymatgen) | [Main project website](https://pymatgen.org/team.html))
-- Fireworks ([Github fork](https://github.com/mhsiron/fireworks) | [Main project website](https://materialsproject.github.io/fireworks/contributors.html))
+- Atomate ([Github fork](https://github.com/mhsiron/atomate), [Main project website](https://atomate.org/contributors.html))
+- Pymatgen ([Github fork](https://github.com/mhsiron/pymatgen), [Main project website](https://pymatgen.org/team.html))
+- Fireworks ([Github fork](https://github.com/mhsiron/fireworks), [Main project website](https://materialsproject.github.io/fireworks/contributors.html))
 
 ### Teaching:
 - MSE 45 – teaching six 3-hour lab sections along with six 1-hour lectures on topics from mechanical properties, crystal growth and crystal properties, phases, phase seperation, phase transformations, polymers and polymers characterization.
