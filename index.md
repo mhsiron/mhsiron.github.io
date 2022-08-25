@@ -1,10 +1,11 @@
 ---
-title: Martin Siron, Ph.D. - Semiconductor Modeling Engineer
+title: Martin Siron, Ph.D.
 feature_text: |
   ## Martin Siron, Ph.D.
   Semiconductor Modeling Engineer
 feature_image: "assets/images/background.jpeg"
 excerpt: ""
+aside: true
 ---
 
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
