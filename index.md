@@ -1,9 +1,9 @@
 ---
-title: About Alembic
+title: Martin Siron, Ph.D. - Semiconductor Modeling Engineer
 feature_text: |
   ## Martin Siron, Ph.D.
   Semiconductor Modeling Engineer
-feature_image: "images/background.jpeg"
+feature_image: "assets/images/background.jpeg"
 excerpt: ""
 ---
 
