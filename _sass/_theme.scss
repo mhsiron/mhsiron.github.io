@@ -200,7 +200,7 @@ body {
   }
   &--current {
     a {
-      color: $captionColour;
+      color: $mainContentColor;
     }
   }
 }
@@ -451,6 +451,7 @@ pre code {
     padding-right: 0;
     margin-left: .2rem;
     margin-right: .2rem;
+    color: $captionColour;
   }
   pre {
     white-space: pre;
