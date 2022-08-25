@@ -21,28 +21,23 @@ aside: true
 
 ## Other Works
 
-Here are a few examples of Alembic out in the wild being used in a variety of ways:
+### Contribution to open source softwares (in order of contributions):
 
-- [bawejakunal.github.io](https://bawejakunal.github.io/)
-- [case2111.github.io](https://case2111.github.io/)
-- [karateca.org](https://www.karateca.org/)
+- Atomate ([Github fork](https://github.com/mhsiron/atomate) | [Main project website](https://atomate.org/contributors.html))
+- Pymatgen ([Github fork](https://github.com/mhsiron/pymatgen) | [Main project website](https://pymatgen.org/team.html))
+- Fireworks ([Github fork](https://github.com/mhsiron/fireworks) | [Main project website](https://materialsproject.github.io/fireworks/contributors.html))
+
+### Teaching:
+- MSE 45 – teaching six 3-hour lab sections along with six 1-hour lectures on topics from mechanical properties, crystal growth and crystal properties, phases, phase seperation, phase transformations, polymers and polymers characterization.
+- Beginner Python @ Materials Project Workshop – gave a Python primer to professionals and academics in the materials field in order to be able to complete more advance lessons during the ’19 Materials Project Workshop.
 
 ## Presentations
+- Materials Research Society, Spring Meeting, Honolulu, HI:
+  - Talk 1
+  - Talk 2
+- JCAP Year End 2020, Berkeley, CA:
+  - Poster can be found here.
 
 ## Work Experiences
-
-To give you a running start I've put together some starter kits that you can download, fork or even deploy immediately:
-
-- ⚗️🍨 Vanilla Jekyll starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-kit){:style="background: none"}
-- ⚗️🌲 Forestry starter kit  
-  [![Deploy to Forestry](https://assets.forestry.io/import-to-forestry.svg)](https://app.forestry.io/quick-start?repo=daviddarnes/alembic-forestry-kit&engine=jekyll){:style="background: none"}  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-forestry-kit){:style="background: none"}
-- ⚗️💠 Netlify CMS starter kit  
-  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/daviddarnes/alembic-netlifycms-kit&stack=cms){:style="background: none"}
-
-- ⚗️:octocat: GitHub Pages with remote theme kit  
-  {% include button.html text="Download kit" link="https://github.com/daviddarnes/alembic-kit/archive/remote-theme.zip" color="#24292e" %}
-- ⚗️🚀 Stackbit starter kit  
-  [![Create with Stackbit](https://assets.stackbit.com/badge/create-with-stackbit.svg)](https://app.stackbit.com/create?theme=https://github.com/daviddarnes/alembic-stackbit-kit){:style="background: none"}
-
+- Intel Corporation
+- Apple Corporation
