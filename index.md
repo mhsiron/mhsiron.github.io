@@ -8,7 +8,7 @@ excerpt: ""
 aside: true
 ---
 
-{% include button.html text="GitHub" icon="github" link="https://github.com/mhsiron" color="#0366d6" %} {% include button.html text="Google Scholar" link="https://scholar.google.com/citations?user=0onOSscAAAAJ&hl=en" color="#f68140" %} {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/martin_siron" color="#0d94e7" %} {% include button.html text=""LinkedIn" link="https://linkedin.com/in/martinsiron" %}
+{% include button.html text="GitHub" icon="github" link="https://github.com/mhsiron" color="#0366d6" %} {% include button.html text="Google Scholar" link="https://scholar.google.com/citations?user=0onOSscAAAAJ&hl=en" color="#f68140" %} {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/martin_siron" color="#0d94e7" %} {% include button.html text="LinkedIn" link="https://linkedin.com/in/martinsiron" %}
 
 ## Publications
 
