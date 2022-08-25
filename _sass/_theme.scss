@@ -9,7 +9,9 @@ body {
 }
 
 .container {
-  width: 85%;
+  width: 100%;
+  padding-left: 1rem;
+  padding-right: 1rem;
   max-width: 1200px;
   margin: 0 auto;
 }
@@ -118,7 +120,7 @@ body {
 
 // Main content
 .main {
-  background: $mainContentColor !important;
+  background: $mainContentColor;
   @include flexbox;
   @include flex-direction(column);
   @include flex(1, 0, auto);
@@ -128,10 +130,6 @@ body {
     @include justify-content(center);
     @include flex-direction(row);
   }
-}
-
-.main  container {
-  background: $mainContentColor;
 }
 
 .header,
