@@ -12,21 +12,12 @@ aside: true
 
 ## Publications
 
-- Available as a **theme gem** and **GitHub Pages** theme
-- Clear and elegant design that can be used out of the box or as solid starting point
-- Tested in all major browsers, including **IE and Edge**
-- Built in **Service Worker** so it can work offline and on slow connections
-- **Configurable colours** and typography in a single settings file
-- Extensive set of **shortcodes** to include various elements; such as buttons, icons, figure images and more
-- Solid **typographic framework** from [Sassline](https://sassline.com/)
-- Configurable navigation via a single file
-- Modular Jekyll components
-- Post category support in the form of a single post index page grouped by category
-- Built in live search using JavaScript
-- **Contact form** built in using [Formspree](https://formspree.io/)
-- Designed with **[Siteleaf](https://www.siteleaf.com/)** in mind
-- Has 9 of the most popular networks as performant sharing buttons
-- Has documentation
+1. Yong Liu, **Martin Siron**,…, Peidong Yang. “Self-assembly of Two-dimensional Perovskite Nanosheet BuildingBlocks into Ordered Ruddlesden-Popper Perovskite Phase” J Am. Chem. Soc. 2019 [URL](https://pubs.acs.org/doi/10.1021/jacs.9b06889)
+2. Hao Liu, **Martin Siron**, …, Peidong Yang. “Lead halide perovskite nanowires stabilized by block copolymers for Langmuir-Blodgett assembly” Nano Research 2020 [URL](https://link.springer.com/article/10.1007/s12274-020-2717-9)
+3. Jianmei Huang, Teng Lei, **Martin Siron**, …, Peidong Yang “Lead-free Cesium Europium Halide Perovskite Nanocrystal” ACS Nano Letters 2020. [URL](https://pubs.acs.org/doi/abs/10.1021/acs.nanolett.0c00692)
+4. Oxana Andriuc*, **Martin Siron***, …, Kristin Persson “Automated Adsorption Workflow for Semiconductor Surfaces and the Application to Zinc Telluride” ACS JCIM, 2021 [URL](https://pubs.acs.org/doi/full/10.1021/acs.jcim.1c00340)
+5. **Martin Siron**, Oxana Andriuc, Kristin Persson “Data-Driven Investigation of Tellurium-Containing Semiconductors for CO2 Reduction: Trends in Adsorption and Scaling Relations” ACS JPCC, 2022 [URL](https://pubs.acs.org/doi/full/10.1021/acs.jpcc.2c04810)
+6. Jordan Burns,..., **Martin Siron**,..., Kristin Persson "Equilibrium Particle Shape and Surface Chemistry of Disordered Li-excess, Mn-rich Li-ion Cathodes through First-principles Modeling" ACS Chem. Mat., 2022 [URL](https://pubs.acs.org/doi/full/10.1021/acs.chemmater.2c00804)
 
 ## Other Works
 
