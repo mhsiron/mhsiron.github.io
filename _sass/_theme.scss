@@ -118,7 +118,7 @@ body {
 
 // Main content
 .main {
-  background: $mainContentColor;
+  background: $mainContentColor !important;
   @include flexbox;
   @include flex-direction(column);
   @include flex(1, 0, auto);
