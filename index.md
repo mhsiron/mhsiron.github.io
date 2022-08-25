@@ -1,5 +1,5 @@
 ---
-title: Martin Siron, Ph.D.
+title: About me
 feature_text: |
   ## Martin Siron, Ph.D.
   Semiconductor Modeling Engineer
