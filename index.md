@@ -8,7 +8,7 @@ excerpt: ""
 aside: true
 ---
 
-{% include button.html text="Fork it" icon="github" link="https://github.com/daviddarnes/alembic" color="#0366d6" %} {% include button.html text="Buy me a coffee ☕️" link="https://buymeacoffee.com/daviddarnes#support" color="#f68140" %} {% include button.html text="Tweet it" icon="twitter" link="https://twitter.com/intent/tweet/?url=https://alembic.darn.es&text=Alembic%20-%20A%20Jekyll%20boilerplate%20theme&via=DavidDarnes" color="#0d94e7" %} {% include button.html text="Install Alembic ⚗️" link="https://github.com/daviddarnes/alembic#installation" %}
+{% include button.html text="GitHub" icon="github" link="https://github.com/mhsiron" color="#0366d6" %} {% include button.html text="Google Scholar" link="https://scholar.google.com/citations?user=0onOSscAAAAJ&hl=en" color="#f68140" %} {% include button.html text="Twitter" icon="twitter" link="https://twitter.com/martin_siron" color="#0d94e7" %} {% include button.html text=""LinkedIn" link="https://linkedin.com/in/martinsiron" %}
 
 ## Features
 
