@@ -24,6 +24,7 @@ body {
   }
   .logo {
     @include flex(0 0 auto);
+    color: $backgroundColour;
   }
   .container {
     @include flexbox;
@@ -33,12 +34,6 @@ body {
     @include breakpoint(break-1) {
       @include align-items(center);
     }
-  }
-}
-
-.header .container {
-  a {
-    color: $backgroundColour;
   }
 }
 
