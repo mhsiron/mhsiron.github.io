@@ -1,8 +1,7 @@
 ---
 title: About me
 feature_text: |
-  ## Martin Siron, Ph.D.
-  Semiconductor Modeling Engineer
+   
 feature_image: "assets/images/background.jpeg"
 excerpt: ""
 aside: true
