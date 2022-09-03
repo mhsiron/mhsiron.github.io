@@ -24,7 +24,7 @@ body {
   }
   .logo {
     @include flex(0 0 auto);
-    color: $backgroundColour;
+    color: $mainContentColor;
   }
   .container {
     @include flexbox;
