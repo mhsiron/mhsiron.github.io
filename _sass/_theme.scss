@@ -37,7 +37,9 @@ body {
 }
 
 .header .container {
-  color: $backgroundColour;
+  a {
+    color: $backgroundColour;
+  }
 }
 
 .header .nav {
