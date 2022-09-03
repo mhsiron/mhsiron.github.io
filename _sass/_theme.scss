@@ -36,6 +36,10 @@ body {
   }
 }
 
+.header .container {
+  color: $backgroundColour;
+}
+
 .header .nav {
   display: flex;
   flex-direction: column-reverse;
